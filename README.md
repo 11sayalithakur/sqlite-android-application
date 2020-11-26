@@ -2,7 +2,7 @@
 android app using sqlite
 
 #screenshot 1 :
-![](sqlite-android-application/Screenshot1.png)
+![](Screenshot1.png)
 
 #screenshot 2 :
 ![](sqlite-android-application/Screenshot2.png)
