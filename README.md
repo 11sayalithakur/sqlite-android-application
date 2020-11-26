@@ -1,5 +1,6 @@
 # sqlite-android-application
-android app using sqlite
+This android application build using sqlite.
+This is simple book library application which contains name of book ,authour name,pages of book.
 
 Screenshot 1:
 
